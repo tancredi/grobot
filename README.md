@@ -53,9 +53,13 @@ Now you can see the grobot tasks menu by running:
 
     grobot ~/bots/myBot.json
 
+    ![Screenshot](http://www.imageupload.co.uk/images/2015/04/29/screen-1.png)
+
 Or directly run a specific task:
 
     grobot ~/bots/myBot.json buffer
+
+    ![Screenshot](http://www.imageupload.co.uk/images/2015/04/29/screen-2.png)
 
 See the next section to understand tasks better
 
@@ -71,8 +75,6 @@ If it runs out of tweets it means it didn't find tweets relevant or popular enou
 Usage:
 
     grobot bot_config.json auto
-
-![Screenshot](http://www.imageupload.co.uk/images/2015/04/29/screen-1.png)
 
 #### Buffer
 
