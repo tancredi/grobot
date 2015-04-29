@@ -53,13 +53,13 @@ Now you can see the grobot tasks menu by running:
 
     grobot ~/bots/myBot.json
 
-    ![Screenshot](http://www.imageupload.co.uk/images/2015/04/29/screen-1.png)
+![Screenshot](http://www.imageupload.co.uk/images/2015/04/29/screen-1.png)
 
 Or directly run a specific task:
 
     grobot ~/bots/myBot.json buffer
 
-    ![Screenshot](http://www.imageupload.co.uk/images/2015/04/29/screen-2.png)
+![Screenshot](http://www.imageupload.co.uk/images/2015/04/29/screen-2.png)
 
 See the next section to understand tasks better
 
