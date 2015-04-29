@@ -1,3 +1,5 @@
+![Icon](http://www.imageupload.co.uk/images/2015/04/29/icon.png)
+
 # Gro-bot
 
 > A simple yet somewhat clever node.js Twitter bot based on [Twit](https://github.com/ttezel/twit) to automate or semi-automate your tweets through a simple client interface
@@ -69,6 +71,8 @@ If it runs out of tweets it means it didn't find tweets relevant or popular enou
 Usage:
 
     grobot bot_config.json auto
+
+![Screenshot](http://www.imageupload.co.uk/images/2015/04/29/screen-1.png)
 
 #### Buffer
 
