@@ -78,21 +78,21 @@ Usage:
 
 #### Buffer
 
-Use the buffer task to be automatically suggested with a list of relevant tweets. All you'll have to do is say yes or no to those, and they'll be added to your cue, which gets stored in memory.
+Use the buffer task to be automatically suggested with a list of relevant tweets. All you'll have to do is say yes or no to those, and they'll be added to your queue, which gets stored in memory.
 
-In order to then automate the tweeting of your cue, use the Cue task.
+In order to then automate the tweeting of your queue, use the Queue task.
 
 Usage:
 
     grobot bot_config.json buffer
 
-#### Cue
+#### Queue
 
-Use the cue task to publish the tweets cued by the Buffer task.
+Use the queue task to publish the tweets queued by the Buffer task.
 
 Usage:
 
-    grobot bot_config.json cue
+    grobot bot_config.json queue
 
 #### Flush
 

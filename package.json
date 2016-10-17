@@ -1,6 +1,6 @@
 {
   "name": "grobot",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "index.js",
   "bin": {
@@ -16,6 +16,7 @@
     "deep-extend": "^0.3.3",
     "easywizard": "^0.2.0",
     "minimist": "^1.1.1",
+    "minimist-argv": "^1.0.0",
     "moment": "^2.10.0",
     "node-persist": "0.0.3",
     "pretty-ms": "^1.1.0",
